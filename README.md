@@ -53,6 +53,9 @@ Below are images illustrating what users should see as they navigate HoliMovie:
 ## Visit Deployed Website
 
 [HoliMovie](https://jeongholee21.github.io/Project-One/)
+  
+## My Portfolio
+[Jeongho Lee Portfolio](https://jeongholee21.github.io/portfolio/)
 
 ## Credits
   
